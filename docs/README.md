@@ -4,7 +4,7 @@ This webpage contains complementary material to the research paper:
 
 | <a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
 |:---|:---|
-|[<img src="icon-pdf.png" width="150">](https://www.mdpi.com/2227-7390/10/14/2538)|José A. Sáez, José L. Romero-Béjar. **Impact of regressand stratification in dataset shift caused by cross-validation**. [Mathematics](https://www.mdpi.com/journal/mathematics). 2022; 10(14):2538.|
+|[<img src="icon-pdf.png" width="150">](https://www.sciencedirect.com/journal/knowledge-based-systems)|José A. Sáez, Pedro A. García. **Novel noise models for categorical attribute error simulation in classification**. [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems). 2022; 10(14):2538.|
 | <a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
 
 <br>
