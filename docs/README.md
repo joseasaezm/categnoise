@@ -18,23 +18,21 @@ The web is organized according to the following summary:
 <br>
  
 ## <a name="Abstract"></a> 1. Abstract
-Data that have not been modeled cannot be correctly predicted. Under this assumption, this research studies how k-fold cross-validation can introduce dataset shift in regression problems. This fact implies data distributions in the training and test sets to be different and, therefore, a deterioration of the model performance estimation. Even though the stratification of the output variable is widely used in the field of classification to reduce the impacts of dataset shift induced by cross-validation, its use in regression is not widespread in the literature. This paper analyzes the consequences for dataset shift of including different regressand stratification schemes in cross-validation with regression data. The results obtained show that these allow for creating more similar training and test sets, reducing
-the presence of dataset shift related to cross-validation. The bias and deviation of the performance estimation results obtained by regression algorithms are improved using the highest amounts of strata, as are the number of cross-validation repetitions necessary to obtain these better results.
+Noise models are commonly used for controlled experimentation with noisy classification data, improving understanding of error impacts and supporting the development of mitigation strategies. However, attribute noise models, particularly for categorical variables, have received limited attention in the literature and typically generate simple corruptions using uniform random noise. This paper presents a novel methodology to simulate categorical attribute noise through 25 models reflecting realistic errors arising from data collection, coding and transcription. Each model employs a different probabilistic approach to determine which data values are corrupted and how the resulting noise is assigned. The impact of each type of noise is examined through extensive experiments on thousands of noisy datasets with different corruption levels affecting the training sets and, additionally, the test sets. These datasets are then used to evaluate the robustness of classification algorithms from different paradigms, such as decision trees, rule-based systems and ensemble methods, analyzing their behavior under real-world noisy scenarios not previously studied. These contributions offer a solid foundation for future studies on categorical attribute noise and provide valuable insights for experiments involving such errors in classification datasets.
  
 ## <a name="Datasets"></a> 2. Real-world datasets
 
-This research considers 28 real-world regression datasets taken from the *UCI
-machine learning* and *KEEL-dataset* repositories. In order to study the impact of stratification in *k*-fcv with regression problems regardless of the characteristics of the data, datasets belonging to different applications and areas (including fields such as biology, geology, chemistry and so on), an with different numbers of attributes and samples are selected. The next table presents them, along with their number of attributes (*at*) and samples (*sa*). Those samples containing missing values in these datasets are removed before their usage. Furthermore, both the input attributes and the output variable are normalized to the interval [0, 1].
+The experimentation is based on 20 real-world datasets of a different nature taken from the *UCI* and *OpenML* repositories. The next table summarizes the details of these datasets, including sample size (*sa*), number of categorical attributes (*at*) and number of classes (*cl*). The datasets differ widely in terms of sample size (ranging from 148 to 28056), number of attributes (from 3 to 240) and number of classes (from 2 to 18). Samples containing missing values are removed prior to usage.
 
 <center>
 <a href="#img2"><img src="data.png" width="500"></a>
 </center>
 
 These datasets can be downloaded from the webpages:
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
-- [KEEL-dataset Repository](http://www.keel.es)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
+- [OpenML Repository](https://www.openml.org/)
 
-Additionally, these datasets can be downloaded [here](https://github.com/joseasaezm/scvreg/raw/main/docs/data.zip).
+Additionally, these datasets can be downloaded [here](https://github.com/joseasaezm/categnoise/raw/main/docs/data.zip).
 
 <br>
 
