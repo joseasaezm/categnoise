@@ -22,7 +22,7 @@ Noise models are commonly used for controlled experimentation with noisy classif
  
 ## <a name="Datasets"></a> 2. Real-world datasets
 
-The experimentation is based on 20 real-world datasets of a different nature taken from the *UCI* and *OpenML* repositories. The next table summarizes the details of these datasets, including sample size (*sa*), number of categorical attributes (*at*) and number of classes (*cl*). The datasets differ widely in terms of sample size (ranging from 148 to 28056), number of attributes (from 3 to 240) and number of classes (from 2 to 18). Samples containing missing values are removed prior to usage.
+The experimentation is based on 20 real-world datasets of a different nature taken from the *UCI* and *OpenML* repositories. The next table summarizes their main characteristics, including the number of samples (*sa*), which ranges from 148 to 28056, the number of categorical attributes (*at*), from 3 to 240, and the number of classes (*cl*), from 2 to 18. Samples containing missing values are removed before analysis.
 
 <center>
 <a href="#img2"><img src="data.png" width="500"></a>
