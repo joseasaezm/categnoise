@@ -36,11 +36,11 @@ Additionally, these datasets can be downloaded [here](https://github.com/joseasa
 
 <br>
 
-## <a name="Performance"></a> 3. Target shift and error estimation results
+## <a name="Performance"></a> 3. Performance results under categorical attribute noise
 
 |<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|<a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>|
 |:---|:---:|
-|&nbsp;&nbsp;&nbsp;**-** *Target shift results (box-plots)* | [<img src="icon-pdf.png" width="50">](https://github.com/joseasaezm/scvreg/raw/main/docs/targetshift-bp.pdf)|
-|&nbsp;&nbsp;&nbsp;**-** *Error estimation results* | [<img src="icon-excel.png" width="50">](https://github.com/joseasaezm/scvreg/raw/main/docs/performance.xls)|
+|&nbsp;&nbsp;&nbsp;**-** *Performance results (noisy train / clean test)* | [<img src="icon-pdf.png" width="50">](https://github.com/joseasaezm/categnoise/raw/main/docs/nc_results.pdf)|
+|&nbsp;&nbsp;&nbsp;**-** *Performance evolution plot (noisy train / clean test)* | [<img src="icon-pdf.png" width="50">](https://github.com/joseasaezm/categnoise/raw/main/docs/nc_plot.pdf)|
 |&nbsp;&nbsp;&nbsp;**-** *Convergence speed plots* | [<img src="icon-pdf.png" width="50">](https://github.com/joseasaezm/scvreg/raw/main/docs/convergence.pdf)|
 |<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|<a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>|
