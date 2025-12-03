@@ -4,7 +4,7 @@ This webpage contains complementary material to the research paper:
 
 | <a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
 |:---|:---|
-|[<img src="icon-pdf.png" width="150">](https://www.sciencedirect.com/journal/knowledge-based-systems)|José A. Sáez, Pedro A. García. **Novel noise models for categorical attribute error simulation in classification**. [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems). 2025; Submitted.|
+| <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target="_blank" rel="noopener noreferrer"><img src="icon-pdf.png" width="150"></a> | José A. Sáez, Pedro A. García. **Novel noise models for categorical attribute error simulation in classification**. <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target="_blank" rel="noopener noreferrer">Knowledge-Based Systems</a>. 2025; Submitted. |
 | <a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
 
 <br>
