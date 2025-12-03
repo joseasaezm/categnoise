@@ -13,7 +13,7 @@ The web is organized according to the following summary:
 
 1. [Abstract](#Abstract)
 2. [Real-world datasets](#Datasets)
-3. [Target shift and error estimation results](#Performance)
+3. [Performance under categorical attribute noise](#Performance)
 
 <br>
  
@@ -36,7 +36,7 @@ Additionally, these datasets can be downloaded [here](https://github.com/joseasa
 
 <br>
 
-## <a name="Performance"></a> 3. Performance results under categorical attribute noise
+## <a name="Performance"></a> 3. Performance under categorical attribute noise
 
 |<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|<a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>|
 |:---|:---:|
