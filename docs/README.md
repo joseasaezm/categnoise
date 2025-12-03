@@ -40,7 +40,7 @@ Additionally, these datasets can be downloaded [here](https://github.com/joseasa
 
 |<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|<a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>|
 |:---|:---:|
-|&nbsp;&nbsp;&nbsp;**-** *Performance results (noisy train / clean test)* | [<img src="icon-pdf.png" width="50">](https://github.com/joseasaezm/categnoise/raw/main/docs/nc_results.pdf)|
+|   **-** *Performance results (noisy train / clean test)* | <a href="https://github.com/joseasaezm/categnoise/raw/main/docs/nc_results.pdf" target="_blank" rel="noopener noreferrer"><img src="icon-pdf.png" width="50"></a> |
 |&nbsp;&nbsp;&nbsp;**-** *Performance evolution plot (noisy train / clean test)* | [<img src="icon-png.png" width="50">](https://github.com/joseasaezm/categnoise/raw/main/docs/nc_plot.png)|
 |&nbsp;&nbsp;&nbsp;**-** *Performance plots of robust algorithms (noisy train / clean test)* | [<img src="icon-png.png" width="50">](https://github.com/joseasaezm/categnoise/raw/main/docs/nc_robust.png)|
 |&nbsp;&nbsp;&nbsp;**-** *Performance results (noisy train / noisy test)* | [<img src="icon-pdf.png" width="50">](https://github.com/joseasaezm/categnoise/raw/main/docs/nn_results.pdf)|
