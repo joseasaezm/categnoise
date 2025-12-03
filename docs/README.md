@@ -29,8 +29,9 @@ The experimentation is based on 20 real-world datasets of a different nature tak
 </center>
 
 These datasets can be downloaded from the webpages:
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
-- [OpenML Repository](https://www.openml.org/)
+- <a href="https://archive.ics.uci.edu/" target="_blank" rel="noopener noreferrer">UCI Machine Learning Repository</a>
+- <a href="https://www.openml.org/" target="_blank" rel="noopener noreferrer">OpenML Repository</a>
+
 
 Additionally, these datasets can be downloaded [here](https://github.com/joseasaezm/categnoise/raw/main/docs/data.zip).
 
